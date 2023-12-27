@@ -7,6 +7,6 @@
 
     cd SmartEdu
 
-#### Run the project
+### 2. Run the project
     npm start
 View the result: localhost:3000
